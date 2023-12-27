@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-using-Minimax-Algorithm-in-Game-Theory
 This Python project features a classic Tic Tac Toe game where players challenge an AI opponent using the minimax algorithm for optimal moves.
 
-# #Tic Tac Toe Game with Minimax AI
+## Tic Tac Toe Game with Minimax AI
 
 This is a simple implementation of the classic Tic Tac Toe game in Python, featuring an AI opponent that uses the minimax algorithm to play optimally. The minimax algorithm logic was adapted from [GeeksforGeeks](https://www.geeksforgeeks.org/finding-optimal-move-in-tic-tac-toe-using-minimax-algorithm-in-game-theory/).
 
